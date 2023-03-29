@@ -6,3 +6,6 @@ Serversidever1
 
 Serversidever.2
 新規登録時にmailとpassのみで登録できるものです。
+
+Serversidever.3
+ユーザー登録時にusername,maill,pass,cofirmpassが必要なもので、contentsの投稿、変更時に自動でユーザーネームが入るようにしました。
