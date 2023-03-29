@@ -1,3 +1,8 @@
 # Server-Side-Issues
 沼村竜汰のサーバーサイド課題
-ユーザー登録時にmailとpassだけで登録できる変更をしました。
+
+Serversidever1
+3/28にアップロードしたものと同様のファイルです。
+
+Serversidever.2
+新規登録時にmailとpassのみで登録できるものです。
